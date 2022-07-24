@@ -1,0 +1,15 @@
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\bin\Debug\net6.0\Examples252729.exe
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\bin\Debug\net6.0\Examples252729.deps.json
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\bin\Debug\net6.0\Examples252729.runtimeconfig.json
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\bin\Debug\net6.0\Examples252729.dll
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\bin\Debug\net6.0\Examples252729.pdb
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\obj\Debug\net6.0\Examples252729.csproj.AssemblyReference.cache
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\obj\Debug\net6.0\Examples252729.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\obj\Debug\net6.0\Examples252729.AssemblyInfoInputs.cache
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\obj\Debug\net6.0\Examples252729.AssemblyInfo.cs
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\obj\Debug\net6.0\Examples252729.csproj.CoreCompileInputs.cache
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\obj\Debug\net6.0\Examples252729.dll
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\obj\Debug\net6.0\refint\Examples252729.dll
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\obj\Debug\net6.0\Examples252729.pdb
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\obj\Debug\net6.0\Examples252729.genruntimeconfig.cache
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\Examples252729\obj\Debug\net6.0\ref\Examples252729.dll
